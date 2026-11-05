@@ -1,7 +1,11 @@
 name: Refresh Montréal internships
 on:
   schedule:
-    - cron: "17 12 * * *"
+    - cron: "17 */6 * * *"
+  push:
+    branches: [main]
+    paths: ["update.py", "test_update.py", ".github/workflows/refresh.yml"]
+  pull_request:
   workflow_dispatch:
 permissions:
   contents: write
@@ -11,11 +15,15 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+      - name: Validate filtering and feed handling
+        run: python3 -m unittest -v
       - name: Fetch listings and refresh table
         run: python3 update.py
       - name: Publish changed listings
+        if: github.event_name != 'pull_request'
         run: |
           git add README.md
           if ! git diff --cached --quiet; then
