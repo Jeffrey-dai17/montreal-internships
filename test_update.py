@@ -33,6 +33,18 @@ class ListingTests(unittest.TestCase):
                 excluded["title"] = "Excluded Role"
                 self.assertNotIn("Excluded Role", update.render([self.job, excluded]))
 
+    def test_all_2027_terms_are_included_and_shown(self):
+        for term in ["Winter 2027", "Spring 2027", "Summer 2027", "Fall 2027"]:
+            with self.subTest(term=term):
+                self.job["terms"] = [term]
+                self.assertIn(f"| {term} |", update.render([self.job]))
+
+    def test_multiple_terms_are_shown_without_previous_year(self):
+        self.job["terms"] = ["Fall 2026", "Winter 2027", "Summer 2027"]
+        result = update.render([self.job])
+        self.assertIn("| Winter 2027, Summer 2027 |", result)
+        self.assertNotIn("Fall 2026", result)
+
     def test_duplicate_application_urls_collapse(self):
         self.assertIn("**1 open listings**", update.render([self.job, self.job]))
 

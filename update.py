@@ -11,7 +11,11 @@ from urllib.request import urlopen
 
 SOURCE = "https://github.com/SimplifyJobs/Summer2027-Internships"
 FEED = SOURCE.replace("github.com", "raw.githubusercontent.com") + "/dev/.github/scripts/listings.json"
-TERM = "Summer 2027"
+YEAR = "2027"
+
+
+def target_terms(terms):
+    return [term for term in terms if term.endswith(" " + YEAR)]
 
 
 def in_montreal(location):
@@ -34,13 +38,15 @@ def render(records):
             raise ValueError("Source terms and locations must be lists")
         if not all(isinstance(place, str) for place in job["locations"]):
             raise ValueError("Source locations must be strings")
+        if not all(isinstance(term, str) for term in job["terms"]):
+            raise ValueError("Source terms must be strings")
         if not isinstance(job["active"], bool):
             raise ValueError("Source active status must be boolean")
-    if not isinstance(records, list) or not records or not any(TERM in r["terms"] for r in records):
-        raise ValueError("Expected a populated feed containing the target term")
+    if not any(target_terms(job["terms"]) for job in records):
+        raise ValueError("Expected a populated feed containing the target year")
     rows = {}
     for job in records:
-        if not job["active"] or not job.get("is_visible", True) or TERM not in job["terms"]:
+        if not job["active"] or not job.get("is_visible", True) or not target_terms(job["terms"]):
             continue
         if not any(in_montreal(place) for place in job["locations"]):
             continue
@@ -49,20 +55,20 @@ def render(records):
             continue
         date = datetime.fromtimestamp(job["date_posted"], timezone.utc).date()
         link = quote(url, safe=":/?&=#%+;,@!~$")
-        rows[url] = (str(date), cell(job["company_name"]), cell(job["title"]), cell(job.get("category", "Other")), cell(", ".join(job["locations"])), link)
+        rows[url] = (str(date), cell(job["company_name"]), cell(job["title"]), cell(", ".join(target_terms(job["terms"]))), cell(job.get("category", "Other")), cell(", ".join(job["locations"])), link)
     lines = [
-        f"# Montréal internships · {TERM}", "",
+        f"# Montréal internships · {YEAR}", "",
         f"[![Refresh status](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml)", "",
         f"Last successful check · {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}", "",
         f"**{len(rows)} open listings** · Sorted by posting date, newest first.", "",
         "Includes tech internships and co-ops that list Montréal as a work location. Multi-city roles qualify. "
-        "Open status comes from the source feed. Check the employer page for availability.", "",
-        "| Employer | Role | Category | Locations | Posted | Application |", "| --- | --- | --- | --- | --- | --- |",
+        "Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.", "",
+        "| Employer | Role | Start term | Category | Locations | Posted | Application |", "| --- | --- | --- | --- | --- | --- | --- |",
     ]
-    for date, company, title, category, locations, link in sorted(rows.values(), reverse=True):
-        lines.append(f"| {company} | {title} | {category} | {locations} | {date} | [Apply]({link}) |")
+    for date, company, title, terms, category, locations, link in sorted(rows.values(), reverse=True):
+        lines.append(f"| {company} | {title} | {terms} | {category} | {locations} | {date} | [Apply]({link}) |")
     if not rows:
-        lines.append("\nNo active Montréal roles match this term.")
+        lines.append("\nNo active Montréal roles match this year.")
     lines.extend(["", f"Listings courtesy of [SimplifyJobs and Pitt CSC]({SOURCE}). "
                   "GitHub Actions checks every six hours at 00:17, 06:17, 12:17 and 18:17 UTC. Scheduled runs may be delayed by GitHub. Failed downloads or invalid feeds preserve the last successful list. The status badge links to refresh results. Coverage follows the SimplifyJobs feed. To suggest a listing, submit it to the source repository.", ""])
     return "\n".join(lines)
