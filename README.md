@@ -2,7 +2,7 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-05 17:25 UTC
+Last successful check · 2026-11-05 23:37 UTC
 
 **25 open listings** · Sorted by posting date, newest first.
 
@@ -10,6 +10,7 @@ Includes tech internships and co-ops that list Montréal as a work location. Mul
 
 | Employer | Role | Start term | Category | Locations | Posted | Application |
 | --- | --- | --- | --- | --- | --- | --- |
+| Royal Bank of Canada | Quantitative Technology Services Co-op - Software Developer | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-05 | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676-3) |
 | Boston Scientific | R&D Product Development Intern | Winter 2027 | Product | Montreal, QC, Canada | 2026-11-05 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813850819) |
 | Botpress Technologies | Software Development Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/16C68A50A7/apply) |
 | Botpress Technologies | Software Developer Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/9B3CB646E8/apply) |
@@ -29,7 +30,6 @@ Includes tech internships and co-ops that list Montréal as a work location. Mul
 | Coveo | Frontend Developer Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-09-28 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002) |
 | Tower Research Capital | Software Developer Intern | Summer 2027 | Software | Montreal, QC, Canada | 2026-09-17 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8212179) |
 | Capital de Recherche Tower | Software Developer Intern | Summer 2027 | Software | Montreal, QC, Canada | 2026-09-17 | [Apply](https://www.tower-research.ca/postes-vacants/?gh_jid=8212194) |
-| BDO Canada | Data & Analytics Co-op Intern | Winter 2027 | AI/ML/Data | Montreal, QC, Canada, Toronto, ON, Canada, Calgary, AB, Canada, Oakville, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Halifax Regional Municipality, NS, Canada | 2026-09-14 | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--January-2027-_JR7061) |
 | Lyft | Software Engineer Intern - Backend | Summer 2027 | Software | Montreal, QC, Canada | 2026-09-11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002) |
 | Grass Valley | Software Development Intern - Core Platform | Winter 2027 | Software | Montreal, QC, Canada | 2026-09-09 | [Apply](https://grassvalley.applytojob.com/apply/r0V942NWEh/Stagiaire-Dveloppement-De-Logiciel-C-Intern-Software-Development-C) |
 | Google | Software Developer Intern | Summer 2027 | Software | Montreal, QC, Canada, Toronto, ON, Canada, Waterloo, ON, Canada | 2026-08-24 | [Apply](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
