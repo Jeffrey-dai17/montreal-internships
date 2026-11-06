@@ -2,9 +2,9 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-06 06:39 UTC
+Last successful check · 2026-11-06 19:23 UTC
 
-**25 open listings** · Sorted by posting date, newest first.
+**24 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Montréal as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
@@ -23,7 +23,6 @@ Includes tech internships and co-ops that list Montréal as a work location. Mul
 | AtkinsRéalis | Business Intelligence Intern - Digital | Summer 2027 | AI/ML/Data | Montreal, QC, Canada | 2026-10-26 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) |
 | Nuovo Photography | Software Developer Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-10-19 | [Apply](https://apply.workable.com/nuovophotography/j/7DE79BE9A8/apply) |
 | Ciena | Services Business Intelligence & Analytics Intern | Winter 2027 | AI/ML/Data | Montreal, QC, Canada, Ottawa, ON, Canada | 2026-10-19 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) |
-| Behaviour Interactive | Product Management Intern - 7 Days to Die | Winter 2027 | Product | Montreal, QC, Canada | 2026-10-16 | [Apply](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply) |
 | PSP Investments | GenAI and Digital Workplace Intern | Winter 2027, Spring 2027 | Software | Montreal, QC, Canada | 2026-10-08 | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003) |
 | Coveo | Software Developer Intern - Solutions Engineering Core Team | Winter 2027 | Software | Montreal, QC, Canada | 2026-10-06 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002) |
 | Coveo | Corporate Business Intelligence Intern | Winter 2027 | AI/ML/Data | Montreal, QC, Canada | 2026-10-01 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002) |
