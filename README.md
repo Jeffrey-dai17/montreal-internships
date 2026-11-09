@@ -2,9 +2,9 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-08 22:01 UTC
+Last successful check · 2026-11-09 06:21 UTC
 
-**24 open listings** · Sorted by posting date, newest first.
+**22 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Montréal as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
@@ -15,8 +15,6 @@ Includes tech internships and co-ops that list Montréal as a work location. Mul
 | Botpress Technologies | Software Development Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/16C68A50A7/apply) |
 | Botpress Technologies | Software Developer Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/9B3CB646E8/apply) |
 | Zimmer Biomet Holdings | Software Developer Co-op | Spring 2027 | Software | Montreal, QC, Canada | 2026-11-02 | [Apply](https://careers.zimmerbiomet.com/us/en/job/13309) |
-| CIBC | Analyst Co-op | Winter 2027 | Quant | Montreal, QC, Canada | 2026-10-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369) |
-| CIBC | AI Developer Co-op - Bilingual | Winter 2027 | Software | Montreal, QC, Canada | 2026-10-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/AI-Developer-Co-op---Bilingual---Winter-2027_2622390) |
 | TMX Group | Analyst Model Validation Intern | Winter 2027 | Quant | Montreal, QC, Canada | 2026-10-27 | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Intern-Analyst-Model-Validation---Winter-term_R-6603) |
 | Royal Bank of Canada | Developer Intern - RBC Amplify | Summer 2027 | Software | Montreal, QC, Canada | 2026-10-26 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1) |
 | Royal Bank of Canada | Developer Intern | Summer 2027 | Software | Montreal, QC, Canada | 2026-10-26 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206) |
