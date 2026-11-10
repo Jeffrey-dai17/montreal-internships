@@ -2,9 +2,9 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-09 22:18 UTC
+Last successful check · 2026-11-10 07:14 UTC
 
-**22 open listings** · Sorted by posting date, newest first.
+**21 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Montréal as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
@@ -23,7 +23,6 @@ Includes tech internships and co-ops that list Montréal as a work location. Mul
 | Ciena | Services Business Intelligence & Analytics Intern | Winter 2027 | AI/ML/Data | Montreal, QC, Canada, Ottawa, ON, Canada | 2026-10-19 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) |
 | PSP Investments | GenAI and Digital Workplace Intern | Winter 2027, Spring 2027 | Software | Montreal, QC, Canada | 2026-10-08 | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003) |
 | Coveo | Software Developer Intern - Solutions Engineering Core Team | Winter 2027 | Software | Montreal, QC, Canada | 2026-10-06 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002) |
-| Coveo | Corporate Business Intelligence Intern | Winter 2027 | AI/ML/Data | Montreal, QC, Canada | 2026-10-01 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002) |
 | Coveo | Frontend Developer Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-09-28 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002) |
 | Tower Research Capital | Software Developer Intern | Summer 2027 | Software | Montreal, QC, Canada | 2026-09-17 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8212179) |
 | Capital de Recherche Tower | Software Developer Intern | Summer 2027 | Software | Montreal, QC, Canada | 2026-09-17 | [Apply](https://www.tower-research.ca/postes-vacants/?gh_jid=8212194) |
