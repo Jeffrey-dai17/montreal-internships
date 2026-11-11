@@ -2,9 +2,9 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-10 19:42 UTC
+Last successful check · 2026-11-11 06:12 UTC
 
-**21 open listings** · Sorted by posting date, newest first.
+**20 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Montréal as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
@@ -30,6 +30,5 @@ Includes tech internships and co-ops that list Montréal as a work location. Mul
 | Grass Valley | Software Development Intern - Core Platform | Winter 2027 | Software | Montreal, QC, Canada | 2026-09-09 | [Apply](https://grassvalley.applytojob.com/apply/r0V942NWEh/Stagiaire-Dveloppement-De-Logiciel-C-Intern-Software-Development-C) |
 | Google | Software Developer Intern | Summer 2027 | Software | Montreal, QC, Canada, Toronto, ON, Canada, Waterloo, ON, Canada | 2026-08-24 | [Apply](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) |
 | Epic Games | Machine Learning Intern - Special Projects - Epic Research Group | Winter 2027, Spring 2027, Summer 2027, Fall 2027 | AI/ML/Data | Montreal, QC, Canada | 2026-08-07 | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) |
-| DRW | AI/ML Research Intern | Summer 2027 | AI/ML/Data | Montreal, QC, Canada | 2026-07-13 | [Apply](https://job-boards.greenhouse.io/drwfr/jobs/7991172) |
 
 Listings courtesy of [SimplifyJobs and Pitt CSC](https://github.com/SimplifyJobs/Summer2027-Internships). GitHub Actions checks every six hours at 00:17, 06:17, 12:17 and 18:17 UTC. Scheduled runs may be delayed by GitHub. Failed downloads or invalid feeds preserve the last successful list. The status badge links to refresh results. Coverage follows the SimplifyJobs feed. To suggest a listing, submit it to the source repository.
