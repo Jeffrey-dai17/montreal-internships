@@ -2,9 +2,9 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-11 14:19 UTC
+Last successful check · 2026-11-12 00:40 UTC
 
-**20 open listings** · Sorted by posting date, newest first.
+**19 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Montréal as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
@@ -19,7 +19,6 @@ Includes tech internships and co-ops that list Montréal as a work location. Mul
 | Royal Bank of Canada | Developer Intern - RBC Amplify | Summer 2027 | Software | Montreal, QC, Canada | 2026-10-26 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1) |
 | Royal Bank of Canada | Developer Intern | Summer 2027 | Software | Montreal, QC, Canada | 2026-10-26 | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206) |
 | AtkinsRéalis | Business Intelligence Intern - Digital | Summer 2027 | AI/ML/Data | Montreal, QC, Canada | 2026-10-26 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) |
-| Nuovo Photography | Software Developer Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-10-19 | [Apply](https://apply.workable.com/nuovophotography/j/7DE79BE9A8/apply) |
 | Ciena | Services Business Intelligence & Analytics Intern | Winter 2027 | AI/ML/Data | Montreal, QC, Canada, Ottawa, ON, Canada | 2026-10-19 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) |
 | PSP Investments | GenAI and Digital Workplace Intern | Winter 2027, Spring 2027 | Software | Montreal, QC, Canada | 2026-10-08 | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003) |
 | Coveo | Software Developer Intern - Solutions Engineering Core Team | Winter 2027 | Software | Montreal, QC, Canada | 2026-10-06 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002) |
