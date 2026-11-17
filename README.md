@@ -2,7 +2,7 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-16 21:59 UTC
+Last successful check · 2026-11-17 07:51 UTC
 
 **20 open listings** · Sorted by posting date, newest first.
 
@@ -10,6 +10,7 @@ Includes tech internships and co-ops that list Montréal as a work location. Mul
 
 | Employer | Role | Start term | Category | Locations | Posted | Application |
 | --- | --- | --- | --- | --- | --- | --- |
+| Angel Host | AI Product Engineer Intern Co-op | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-17 | [Apply](https://angelhost.bamboohr.com/careers/123/) |
 | Shopify | Software Engineer Intern | Summer 2027 | Software | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 2026-11-16 | [Apply](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) |
 | Shopify | Data Intern | Summer 2027 | AI/ML/Data | Montreal, QC, Canada, Toronto, ON, Canada, NYC, Ottawa, ON, Canada | 2026-11-16 | [Apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) |
 | Shopify | Applied Machine Learning Engineer Intern | Summer 2027 | AI/ML/Data | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 2026-11-16 | [Apply](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) |
@@ -23,7 +24,6 @@ Includes tech internships and co-ops that list Montréal as a work location. Mul
 | Ciena | Services Business Intelligence & Analytics Intern | Winter 2027 | AI/ML/Data | Montreal, QC, Canada, Ottawa, ON, Canada | 2026-10-19 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) |
 | PSP Investments | GenAI and Digital Workplace Intern | Winter 2027, Spring 2027 | Software | Montreal, QC, Canada | 2026-10-08 | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003) |
 | Coveo | Software Developer Intern - Solutions Engineering Core Team | Winter 2027 | Software | Montreal, QC, Canada | 2026-10-06 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002) |
-| Coveo | Frontend Developer Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-09-28 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002) |
 | Tower Research Capital | Software Developer Intern | Summer 2027 | Software | Montreal, QC, Canada | 2026-09-17 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8212179) |
 | Capital de Recherche Tower | Software Developer Intern | Summer 2027 | Software | Montreal, QC, Canada | 2026-09-17 | [Apply](https://www.tower-research.ca/postes-vacants/?gh_jid=8212194) |
 | Lyft | Software Engineer Intern - Backend | Summer 2027 | Software | Montreal, QC, Canada | 2026-09-11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002) |
