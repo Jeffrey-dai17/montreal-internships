@@ -2,14 +2,15 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-17 20:52 UTC
+Last successful check · 2026-11-18 07:24 UTC
 
-**19 open listings** · Sorted by posting date, newest first.
+**18 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Montréal as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
 | Employer | Role | Start term | Category | Locations | Posted | Application |
 | --- | --- | --- | --- | --- | --- | --- |
+| Meta | Visiting Researcher Intern - AI Mentorship Program | Fall 2027 | AI/ML/Data | Montreal, QC, Canada | 2026-11-17 | [Apply](https://www.metacareers.com/jobs/1110284504699535) |
 | Angel Host | AI Product Engineer Intern Co-op | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-17 | [Apply](https://angelhost.bamboohr.com/careers/123/) |
 | Shopify | Software Engineer Intern | Summer 2027 | Software | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 2026-11-16 | [Apply](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) |
 | Shopify | Data Intern | Summer 2027 | AI/ML/Data | Montreal, QC, Canada, Toronto, ON, Canada, NYC, Ottawa, ON, Canada | 2026-11-16 | [Apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) |
@@ -18,11 +19,9 @@ Includes tech internships and co-ops that list Montréal as a work location. Mul
 | Botpress Technologies | Software Development Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/16C68A50A7/apply) |
 | Botpress Technologies | Software Developer Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/9B3CB646E8/apply) |
 | Zimmer Biomet Holdings | Software Developer Co-op | Spring 2027 | Software | Montreal, QC, Canada | 2026-11-02 | [Apply](https://careers.zimmerbiomet.com/us/en/job/13309) |
-| TMX Group | Analyst Model Validation Intern | Winter 2027 | Quant | Montreal, QC, Canada | 2026-10-27 | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Intern-Analyst-Model-Validation---Winter-term_R-6603) |
 | AtkinsRéalis | Business Intelligence Intern - Digital | Summer 2027 | AI/ML/Data | Montreal, QC, Canada | 2026-10-26 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) |
 | Ciena | Services Business Intelligence & Analytics Intern | Winter 2027 | AI/ML/Data | Montreal, QC, Canada, Ottawa, ON, Canada | 2026-10-19 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) |
 | PSP Investments | GenAI and Digital Workplace Intern | Winter 2027, Spring 2027 | Software | Montreal, QC, Canada | 2026-10-08 | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003) |
-| Coveo | Software Developer Intern - Solutions Engineering Core Team | Winter 2027 | Software | Montreal, QC, Canada | 2026-10-06 | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002) |
 | Tower Research Capital | Software Developer Intern | Summer 2027 | Software | Montreal, QC, Canada | 2026-09-17 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8212179) |
 | Capital de Recherche Tower | Software Developer Intern | Summer 2027 | Software | Montreal, QC, Canada | 2026-09-17 | [Apply](https://www.tower-research.ca/postes-vacants/?gh_jid=8212194) |
 | Lyft | Software Engineer Intern - Backend | Summer 2027 | Software | Montreal, QC, Canada | 2026-09-11 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002) |
