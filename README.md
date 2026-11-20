@@ -2,14 +2,16 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-20 07:10 UTC
+Last successful check · 2026-11-20 20:12 UTC
 
-**20 open listings** · Sorted by posting date, newest first.
+**21 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Montréal as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
 | Employer | Role | Start term | Category | Locations | Posted | Application |
 | --- | --- | --- | --- | --- | --- | --- |
+| Flare | Software Developer Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-20 | [Apply](https://flare.bamboohr.com/careers/29/) |
+| AON3D | Software Developer Intern | Winter 2027 | Hardware | Montreal, QC, Canada | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/aon3d/jobs/4504702009) |
 | Meta | Visiting Researcher Intern - AI Mentorship Program | Fall 2027 | AI/ML/Data | Montreal, QC, Canada | 2026-11-17 | [Apply](https://www.metacareers.com/jobs/1110284504699535) |
 | Angel Host | AI Product Engineer Intern Co-op | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-17 | [Apply](https://angelhost.bamboohr.com/careers/123/) |
 | Shopify | Software Engineer Intern | Summer 2027 | Software | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 2026-11-16 | [Apply](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) |
@@ -18,7 +20,6 @@ Includes tech internships and co-ops that list Montréal as a work location. Mul
 | Ciena | Technical Solution Engineer Intern - SE&I | Winter 2027 | Software | Montreal, QC, Canada, Ottawa, ON, Canada | 2026-11-13 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114) |
 | Botpress Technologies | Software Development Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/16C68A50A7/apply) |
 | Botpress Technologies | Software Developer Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/9B3CB646E8/apply) |
-| Zimmer Biomet Holdings | Software Developer Co-op | Spring 2027 | Software | Montreal, QC, Canada | 2026-11-02 | [Apply](https://careers.zimmerbiomet.com/us/en/job/13309) |
 | AtkinsRéalis | Business Intelligence Intern - Digital | Summer 2027 | AI/ML/Data | Montreal, QC, Canada | 2026-10-26 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) |
 | Ciena | Services Business Intelligence & Analytics Intern | Winter 2027 | AI/ML/Data | Montreal, QC, Canada, Ottawa, ON, Canada | 2026-10-19 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) |
 | PSP Investments | GenAI and Digital Workplace Intern | Winter 2027, Spring 2027 | Software | Montreal, QC, Canada | 2026-10-08 | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003) |
