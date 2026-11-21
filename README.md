@@ -2,16 +2,15 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-20 20:12 UTC
+Last successful check · 2026-11-21 07:02 UTC
 
-**21 open listings** · Sorted by posting date, newest first.
+**20 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Montréal as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
 | Employer | Role | Start term | Category | Locations | Posted | Application |
 | --- | --- | --- | --- | --- | --- | --- |
 | Flare | Software Developer Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-20 | [Apply](https://flare.bamboohr.com/careers/29/) |
-| AON3D | Software Developer Intern | Winter 2027 | Hardware | Montreal, QC, Canada | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/aon3d/jobs/4504702009) |
 | Meta | Visiting Researcher Intern - AI Mentorship Program | Fall 2027 | AI/ML/Data | Montreal, QC, Canada | 2026-11-17 | [Apply](https://www.metacareers.com/jobs/1110284504699535) |
 | Angel Host | AI Product Engineer Intern Co-op | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-17 | [Apply](https://angelhost.bamboohr.com/careers/123/) |
 | Shopify | Software Engineer Intern | Summer 2027 | Software | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | 2026-11-16 | [Apply](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) |
