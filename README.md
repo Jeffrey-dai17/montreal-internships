@@ -2,9 +2,9 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-23 07:33 UTC
+Last successful check · 2026-11-23 23:51 UTC
 
-**20 open listings** · Sorted by posting date, newest first.
+**19 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Montréal as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
@@ -20,7 +20,6 @@ Includes tech internships and co-ops that list Montréal as a work location. Mul
 | Botpress Technologies | Software Developer Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-03 | [Apply](https://apply.workable.com/botpress/j/9B3CB646E8/apply) |
 | GIRO | Front-End Web Development Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-01 | [Apply](https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-web--Front-end_R-100000317) |
 | AtkinsRéalis | Business Intelligence Intern - Digital | Summer 2027 | AI/ML/Data | Montreal, QC, Canada | 2026-10-26 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) |
-| Ciena | Services Business Intelligence & Analytics Intern | Winter 2027 | AI/ML/Data | Montreal, QC, Canada, Ottawa, ON, Canada | 2026-10-19 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) |
 | PSP Investments | GenAI and Digital Workplace Intern | Winter 2027, Spring 2027 | Software | Montreal, QC, Canada | 2026-10-08 | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003) |
 | Tower Research Capital | Software Developer Intern | Summer 2027 | Software | Montreal, QC, Canada | 2026-09-17 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8212179) |
 | Capital de Recherche Tower | Software Developer Intern | Summer 2027 | Software | Montreal, QC, Canada | 2026-09-17 | [Apply](https://www.tower-research.ca/postes-vacants/?gh_jid=8212194) |
