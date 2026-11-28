@@ -2,14 +2,16 @@
 
 [![Refresh status](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml/badge.svg)](https://github.com/Jeffrey-dai17/montreal-internships/actions/workflows/refresh.yml)
 
-Last successful check · 2026-11-27 21:14 UTC
+Last successful check · 2026-11-28 07:44 UTC
 
-**18 open listings** · Sorted by posting date, newest first.
+**20 open listings** · Sorted by posting date, newest first.
 
 Includes tech internships and co-ops that list Montréal as a work location. Multi-city roles qualify. Start terms and open status come from the source feed. All listed 2027 terms are included. Exact start dates are unspecified in this feed. Check the employer page for dates and availability.
 
 | Employer | Role | Start term | Category | Locations | Posted | Application |
 | --- | --- | --- | --- | --- | --- | --- |
+| CAE | Business Intelligence and Applied AI Intern - Sustainable Procurement | Winter 2027 | AI/ML/Data | Montreal, QC, Canada | 2026-11-26 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GSS-157-Business-Intelligence-and-Applied-AI-Intern---Sustainable-Procurement_124528) |
+| Saputo | Packaging Data and Sustainability Intern | Summer 2027 | AI/ML/Data | Montreal, QC, Canada, Saint-Leonard, Montreal, QC, Canada | 2026-11-20 | [Apply](https://saputo.wd5.myworkdayjobs.com/saputo_external_careers/job/Saint-Leonard-QC/Stagiaire--dveloppement-durable-et-emballage_JR68362) |
 | Flare | Software Developer Intern | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-20 | [Apply](https://flare.bamboohr.com/careers/29/) |
 | Meta | Visiting Researcher Intern - AI Mentorship Program | Fall 2027 | AI/ML/Data | Montreal, QC, Canada | 2026-11-17 | [Apply](https://www.metacareers.com/jobs/1110284504699535) |
 | Angel Host | AI Product Engineer Intern Co-op | Winter 2027 | Software | Montreal, QC, Canada | 2026-11-17 | [Apply](https://angelhost.bamboohr.com/careers/123/) |
